@@ -37,5 +37,5 @@ Many aspiring guitarists struggle to play music by ear. This tool makes it easie
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/guitar-notes-generator.git
-cd guitar-notes-generator
+git clone https://github.com/davidwarnerx/FYP.git
+cd FYP
